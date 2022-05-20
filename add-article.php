@@ -1,13 +1,12 @@
 <?php 
-    
 ?>
 
 <!DOCTYPE html>
 <html lang="en">
 <head>
     <?php require_once'./includes/head.php'?>
-    <link rel="stylesheet" href="./public/css/style.css">
-    <title>BLOG APP</title>
+    <link rel="stylesheet" href="./public/css/add-article.css">
+    <title>Creer un article</title>
 </head>
 <body>
     <div class="container">
